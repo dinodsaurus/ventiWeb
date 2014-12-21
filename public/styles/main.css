@@ -30,6 +30,13 @@ html {
   background-size: 100% auto;
   margin: 70px 0;
 }
+.blue .intro {
+  display: inline-block;
+  width: 700px;
+  color: white;
+  font-size: 22px;
+  line-height: 1.5em;
+}
 .blue h1 {
   font-size: 20px;
   line-height: 1.5em;
